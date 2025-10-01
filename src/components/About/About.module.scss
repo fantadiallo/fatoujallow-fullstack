@@ -1,0 +1,28 @@
+.about {
+  max-width: 720px;
+  width: min(90vw, 720px);
+  margin-inline: auto;
+  padding: 1rem;
+  display: grid;
+  justify-items: center; 
+  gap: 0.5rem;
+  text-align: center;
+  overflow-wrap: anywhere; 
+}
+
+.link {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
+  text-underline-offset: 2px;
+}
+
+.link:hover {
+  text-decoration: underline;
+  text-decoration-thickness: from-font;
+}
+
+
+html[data-theme="dark"] .link {
+  color: #ffffff;
+}
