@@ -1,0 +1,33 @@
+@use "./variables" as *;
+
+// Light Mode
+html[data-theme="light"] {
+  --bg: #{$bg-light};
+  --bg-soft: #{$bg-soft-light};
+  --text: #{$text-light};
+  --muted: #{$muted-light};
+  --border: #{$border-light};
+
+  --accent: #{$peach};
+  --accent-hover: #{$peach-hover};
+  --accent-secondary: #{$terracotta};
+  --accent-secondary-hover: #{$terracotta-hover};
+
+  --shadow: #{$shadow-light};
+}
+
+// Dark Mode
+html[data-theme="dark"] {
+  --bg: #{$bg-dark};
+  --bg-soft: #{$bg-soft-dark};
+  --text: #{$text-dark};
+  --muted: #{$muted-dark};
+  --border: #{$border-dark};
+
+  --accent: #{$peach};
+  --accent-hover: #{$peach-hover};
+  --accent-secondary: #{$terracotta};
+  --accent-secondary-hover: #{$terracotta-hover};
+
+  --shadow: #{$shadow-dark};
+}
