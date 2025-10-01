@@ -1,0 +1,109 @@
+{
+  "name": "Fatou Jallow Mboge",
+  "role": "FullStack Developer",
+  "tagline": "Creative full-stack developer building clean, responsive web applications recently delivered a headless e-commerce platform for a new jewelry brand, Yafato.",
+  "skills": ["React", "JavaScript (ES6+)", "Node.js", "Vite", "SCSS", "Supabase/PostgresSQL"],
+
+  "skillsgeneral": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "SCSS",
+      "Bootstrap",
+      "Tailwind CSS",
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "React",
+      "Vite"
+    ],
+    "backend": [
+        "Node.js",
+      "Supabase",
+      "PostgreSQL",
+      "REST APIs",
+    "Java",
+    "OOP",
+    "SQL ",
+    "Express.js"
+    ],
+    "testing": [
+      "Jest",
+      "Cypress",
+      "Postman"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "Figma",
+      "VS Code",
+      "Netlify",
+      "Vercel",
+      "Agile / Scrum",
+      "Trello",
+      "Notion"
+    ],
+    "platforms": [
+      "Shopify",
+      "WordPress",
+      "Google Ads"
+    ]
+  },
+
+  "tools": ["Figma", "Git/GitHub"],
+  "location": "Remote/Hybrid • Based in Norway • Open to relocating Europe/UK/Canada",
+  "availability": "Full-time",
+  "openCv": "Open CV (PDF)",
+  "linkedin": "LinkedIn",
+  "email": "Email",
+  "status": "• Full-time only",
+  "greeting": "Good afternoon 🌸, I’m glad you’re here!",
+  "about": "From interest to education, I discovered the freedom in building and that’s where my passion for software development was born.",
+
+  "resume": {
+    "work": {
+      "title": "Yafato — Work (CV)",
+      "live": "https://www.yafato.com",
+      "repo": "https://github.com/fantadiallo/yafatoJewelry",
+      "summary": "Headless e-commerce platform for jewelry brand, built with Shopify Storefront & Admin APIs. Custom product pages, cart, checkout, and order sync.",
+      "stack": ["React", "TypeScript", "Node.js", "Shopify API", "Vite", "SCSS"],
+      "details": [
+        "Headless architecture: React (Vite) frontend consuming Shopify Storefront API; secure Node proxy for sensitive Admin API operations.",
+        "Product catalogue with variants, filtering and collection views; client side cart synced to Shopify checkout.",
+        "Admin API jobs + webhooks for order/inventory updates; graceful retry & error handling for resiliency.",
+        "Reusable UI components and design tokens; responsive layouts and accessible interactions (keyboard/focus states).",
+        "Environment-based configuration and secrets; deployed on Vercel with preview builds and caching where appropriate.",
+        "Content and settings structured for easy updates (brand copy, navigation, featured products) without code changes."
+      ]
+    },
+
+    "project2": {
+      "title": "Pet Adoption — Project (CRUD + Auth)",
+      "summary": " Project demonstrating full CRUD, authentication, user profiles, and role-based dashboards.",
+      "stack": ["Vanilla JS", "Node.js", "REST API", "SCSS", "HTML", "Jest", "Postman"],
+      "details": [
+        "CRUD for pet listings (create, edit, delete, view) with basic image upload.",
+        "JWT auth (register, login), protected routes and profile management.",
+        "REST API exercised and documented with Postman; unit tests with Jest.",
+        "Semantic HTML + SCSS and a simple, mobile-first UI."
+      ]
+    },
+
+    "education": {
+      "items": [
+        {
+          "school": "Noroff School of Technology and Digital Media",
+          "degree": "Front-End Development (120 ECTS)",
+          "focus": "JavaScript, React, APIs, SCSS, Agile teamwork, Testing (Jest)",
+          "period": "2023 – 2025"
+        },
+        {
+          "school": "Høyskolen Kristiania",
+          "degree": "Object-Oriented Programming (course)",
+          "focus": "OOP fundamentals, Java basics, software design thinking",
+          "period": "2025"
+        }
+      ]
+    }
+  }
+}

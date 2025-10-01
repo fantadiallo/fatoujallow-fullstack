@@ -1,0 +1,110 @@
+{
+  "name": "Fatou Jallow Mboge",
+  "role": "FullStack Utvikler",
+  "tagline": "Kreativ full-stack utvikler som bygger rene, responsive webapplikasjoner — nylig levert en headless e-handelsplattform for smykkemerket Yafato.",
+  "skills": ["React", "JavaScript (ES6+)", "Node.js", "Vite", "SCSS", "Supabase/PostgresSQL"],
+
+  "skillsgeneral": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "SCSS",
+      "Bootstrap",
+      "Tailwind CSS",
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "React",
+      "Vite"
+    ],
+    "backend": [
+        "Node.js",
+      "Supabase",
+      "PostgreSQL",
+      "REST APIs",
+    "Java",
+    "OOP",
+    "SQL ",
+    "Express.js"
+    ],
+    "testing": [
+      "Jest",
+      "Cypress",
+      "Postman"
+    ],
+    "tools": [
+      "Git",
+      "GitHub",
+      "GitHub Actions",
+      "Figma",
+      "VS Code",
+      "Netlify",
+      "Vercel",
+      "Smidig / Scrum",
+      "Trello",
+      "Notion"
+    ],
+    "platforms": [
+      "Shopify",
+      "WordPress",
+      "Google Ads"
+    ]
+  },
+
+  "tools": ["Figma", "Git/GitHub"],
+  "location": "Remote/Hybrid • Basert i Norge • Åpen for relokalisering i Europa/UK/Canada",
+  "availability": "Fulltid",
+  "openCv": "Åpne CV (PDF)",
+  "linkedin": "LinkedIn",
+  "email": "E-post",
+  "status": "• Kun fulltid",
+  "greeting": "God ettermiddag 🌸, hyggelig at du er her!",
+  "about": "Fra interesse til utdanning oppdaget jeg friheten i å bygge  og da oppsto lidenskapen min for programvareutvikling.",
+
+  "resume": {
+    "work": {
+      "title": "Yafato — Arbeid (CV)",
+      "live": "https://www.yafato.com",
+      "repo": "https://github.com/fantadiallo/yafatoJewelry",
+      "summary": "Headless nettbutikk for mitt smykkemerke, bygget med Shopify Storefront- og Admin-API. Egendefinerte produktsider, handlekurv, checkout og ordresynk.",
+      "stack": ["React", "TypeScript", "Node.js", "Shopify API", "Vite", "SCSS"],
+      "details": [
+        "Headless arkitektur: React (Vite) frontend mot Shopify Storefront API; sikker Node-proxy for Admin-API-operasjoner.",
+        "Produktkatalog med varianter, filtrering og kolleksjoner; klient-side handlekurv koblet til Shopify checkout.",
+        "Admin-API jobber og webhooks for ordre- og lageroppdateringer; robust feil- og retry-håndtering.",
+        "Gjenbrukbare UI-komponenter og designtokens; responsivt og tilgjengelig grensesnitt (tastatur/fokus).",
+        "Miljøbasert konfigurasjon og hemmeligheter; deploy på Vercel med forhåndsvisningsbygg og hensiktsmessig caching.",
+        "Innhold og innstillinger strukturert for enkle endringer (tekst, navigasjon, utvalgte produkter) uten kode."
+      ]
+    },
+
+    "project2": {
+      "title": "Kjæledyradopsjon — Prosjekt 2 (CRUD + Auth)",
+      "repo": "https://github.com/your-pet-adoption-repo",
+      "summary": "Skoleprosjekt som viser full CRUD, autentisering, brukerprofiler og rollebaserte dashboards.",
+      "stack": ["Vanilla JS", "Node.js", "REST API", "SCSS", "HTML", "Jest", "Postman"],
+      "details": [
+        "CRUD for kjæledyr-annonser (opprett, rediger, slett, vis) med enkel bildeopplasting.",
+        "JWT-auth (registrering, innlogging), beskyttede ruter og profilhåndtering.",
+        "REST-API testet og dokumentert i Postman; enhetstester i Jest.",
+        "Semantisk HTML + SCSS og mobil-først grensesnitt."
+      ]
+    },
+
+    "education": {
+      "items": [
+        {
+          "school": "Noroff School of Technology and Digital Media",
+          "degree": "Front-end-utvikling (120 studiepoeng)",
+          "focus": "JavaScript, React, API-er, SCSS, smidig samarbeid, testing (Jest)",
+          "period": "2023 – 2025"
+        },
+        {
+          "school": "Høyskolen Kristiania",
+          "degree": "Objektorientert programmering (kurs)",
+          "focus": "OOP-grunnlag, Java-basics, programvaredesign",
+          "period": "2022"
+        }
+      ]
+    }
+  }
+}
