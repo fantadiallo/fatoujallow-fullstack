@@ -1,15 +1,15 @@
-import { Routes, Route } from "react-router-dom"
-import Layout from "./components/Layout/Layout"
-import HomePage from "./pages/HomePage/HomePage"
+import { Routes, Route } from "react-router-dom";
+import HomePage from "./pages/HomePage/HomePage";
+import Layout from "./components/Layout/Layout";
 
 function App() {
   return (
-    <Routes>
-      <Route element={<Layout />}>
+    <Layout>
+      <Routes>
         <Route path="/" element={<HomePage />} />
-      </Route>
-    </Routes>
-  )
+      </Routes>
+    </Layout>
+  );
 }
 
-export default App
+export default App;
