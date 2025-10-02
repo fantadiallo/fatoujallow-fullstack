@@ -1,7 +1,7 @@
 {
   "name": "Fatou Jallow Mboge",
   "role": "FullStack Utvikler",
-  "tagline": "Kreativ full-stack utvikler som bygger rene, responsive webapplikasjoner — nylig levert en headless e-handelsplattform for smykkemerket Yafato.",
+  "tagline": "Kreativ full-stack utvikler som bygger rene, responsive webapplikasjoner, nylig levert en headless e-handelsplattform for smykkemerket Yafato.",
   "skills": ["React", "JavaScript (ES6+)", "Node.js", "Vite", "SCSS", "Supabase/PostgresSQL"],
 
   "skillsgeneral": {
