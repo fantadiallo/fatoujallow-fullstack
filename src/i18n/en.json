@@ -64,7 +64,7 @@
     "work": {
       "title": "Yafato — Work (CV)",
       "live": "https://www.yafato.com",
-      "repo": "https://github.com/fantadiallo/yafatoJewelry",
+      "repo": "https://github.com/fantadiallo/yafatoJewlry.git",
       "summary": "Headless e-commerce platform for jewelry brand, built with Shopify Storefront & Admin APIs. Custom product pages, cart, checkout, and order sync.",
       "stack": ["React", "TypeScript", "Node.js", "Shopify API", "Vite", "SCSS"],
       "details": [

@@ -64,7 +64,7 @@
     "work": {
       "title": "Yafato — Arbeid (CV)",
       "live": "https://www.yafato.com",
-      "repo": "https://github.com/fantadiallo/yafatoJewelry",
+      "repo": "https://github.com/fantadiallo/yafatoJewlry.git",
       "summary": "Headless nettbutikk for mitt smykkemerke, bygget med Shopify Storefront- og Admin-API. Egendefinerte produktsider, handlekurv, checkout og ordresynk.",
       "stack": ["React", "TypeScript", "Node.js", "Shopify API", "Vite", "SCSS"],
       "details": [
@@ -78,8 +78,7 @@
     },
 
     "project2": {
-      "title": "Kjæledyradopsjon — Prosjekt 2 (CRUD + Auth)",
-      "repo": "https://github.com/your-pet-adoption-repo",
+      "title": "Kjæledyradopsjon  Prosjekt 2 (CRUD + Auth)",
       "summary": "Skoleprosjekt som viser full CRUD, autentisering, brukerprofiler og rollebaserte dashboards.",
       "stack": ["Vanilla JS", "Node.js", "REST API", "SCSS", "HTML", "Jest", "Postman"],
       "details": [
