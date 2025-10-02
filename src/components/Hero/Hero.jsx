@@ -16,7 +16,7 @@ export default function Hero() {
       <div className={styles.inner}>
         <div className={styles.left}>
           <div className={styles.profileCard}>
-            <img className={styles.photo} src="./IMG_1181.JPG" alt={t.name} />
+            <img className={styles.photo} src="./fatouPhoto.jpg" alt={t.name} />
             <h1 id="hero-heading" className={styles.name}>{t.name}</h1>
 
             <div className={styles.socials}>
